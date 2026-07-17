@@ -93,6 +93,15 @@ Shipped iOS app (LiDAR + CV) for mushroom farm bed scanning and before/after har
 
 ---
 
+## Certifications
+
+Google Cloud – Vertex AI & Generative AI · Advanced Python Programming · AI for Healthcare · ISRO–IIRS Environmental Studies · HP Life – AI & Data Science, Design Thinking
+
+## Achievements
+
+AIR 2, National Space Olympiad · Featured in NASA Astronomy Picture of the Day (APOD) · 11 Asteroid Discoveries under AIASC · Recipient, Penang State Government Scientific Grant
+
+---
 
 ## GitHub Activity
 
